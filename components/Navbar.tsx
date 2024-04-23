@@ -179,7 +179,7 @@ const Navbar = () => {
                                                 </Link>
                                             </li>
                                             <li>
-                                                <Link href="/kapcsolat" passHref>
+                                                <Link href="/#kapcsolat" passHref>
                                                     <p aria-label="Kapcsolat" title="Kapcsolat" className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-teal-accent-400" onClick={handleLinkClick}>Kapcsolat</p>
                                                 </Link>
                                             </li>
