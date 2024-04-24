@@ -2,7 +2,7 @@ export const KINALAT = [
     { //BURGEREK
     id: 'bandita',
     name: 'Bandita',
-    src: '/etelek/Bandita.jpg',
+    src: '/optimized_etelek/Bandita.jpg',
     ing: 'Marhahúspogácsa, Cheddar sajt, Bacon, Jalapeno paprika,Chili szósz, savanyított lilahagyma, paradicsom, uborka, saláta, hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3290',
@@ -11,7 +11,7 @@ export const KINALAT = [
     {
     id: 'bekebiro',
     name: 'Békebíró',
-    src: '/etelek/Bekebiro.jpg',
+    src: '/optimized_etelek/Bekebiro.jpg',
     ing: 'Marhahúspogácsa, Bacon, Juhtúró, rántott hagymakarika, paradicsom, lilahagyma, saláta, hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3290',
@@ -20,7 +20,7 @@ export const KINALAT = [
     {
     id: 'csalo',
     name: 'Csaló',
-    src: '/etelek/Csalo.jpg',
+    src: '/optimized_etelek/Csalo.jpg',
     ing: 'Marhahúspogácsa, uborka, lilahagyma, csalamádé,hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2690',
@@ -29,7 +29,7 @@ export const KINALAT = [
     {
     id: 'csirkefogo',
     name: 'Csirkefogó',
-    src: '/etelek/Csirkefogo.jpg',
+    src: '/optimized_etelek/Csirkefogo.jpg',
     ing: 'Rántott csirkemellcsíkok, rántott hagymakarika,paradicsom, uborka, saláta, majonéz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2890',
@@ -38,7 +38,7 @@ export const KINALAT = [
     {
     id: 'dagonya',
     name: 'Dagonya',
-    src: '/etelek/Dagonya.jpg',
+    src: '/optimized_etelek/Dagonya.jpg',
     ing: 'Marhahúspogácsa, Cheddar sajt, Bacon, Grillezett Camembert, áfonyalekvár, paradicsom, uborka, lilahagyma, saláta, hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3990',
@@ -47,7 +47,7 @@ export const KINALAT = [
     {
     id: 'duplasajtburger',
     name: 'Dupla Sajtburger',
-    src: '/etelek/Duplasajt.jpg',
+    src: '/optimized_etelek/Duplasajt.jpg',
     ing: 'Marhahúspogácsa 2x, mustár, Cheddar sajt, csemegeuborka, ketchup, bacon',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3890',
@@ -56,7 +56,7 @@ export const KINALAT = [
     {
     id: 'fish',
     name: 'Fish Burger',
-    src: '/etelek/Fish.jpg',
+    src: '/optimized_etelek/Fish.jpg',
     ing: 'Rántott halfilé, pikáns savanyított lilahagymával, friss paradicsom, ízletes kapros szósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2890',
@@ -65,7 +65,7 @@ export const KINALAT = [
     {
     id: 'lator',
     name: 'Lator',
-    src: '/etelek/Lator.jpg',
+    src: '/optimized_etelek/Lator.jpg',
     ing: 'Marhahúspogácsa, Bacon, Cheddar sajt savanyított lilahagyma,BBQ szósz paradicsom, uborka, saláta,hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2990',
@@ -74,7 +74,7 @@ export const KINALAT = [
     {
     id: 'pulledpork',
     name: 'Pulled pork Burger',
-    src: '/etelek/Pulled.jpg',
+    src: '/optimized_etelek/Pulled.jpg',
     ing: 'Mézes mustár, csemegeuborka, saláta, savanyított lilahagyma, paradicsom, pulled pork, rántott hagymakarika, BBQ',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3890',
@@ -83,7 +83,7 @@ export const KINALAT = [
     {
     id: 'sajtburger',
     name: 'Sajtburger',
-    src: '/etelek/Sajtburger.jpg',
+    src: '/optimized_etelek/Sajtburger.jpg',
     ing: 'Marhahúspogácsa, csípős mustár, olvadó Cheddar sajt, ropogós csemegeuborka, hagyományos ketchup.',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2590',
@@ -92,7 +92,7 @@ export const KINALAT = [
     {
     id: 'sajtimado',
     name: 'Sajtimádó',
-    src: '/etelek/Sajtimado.jpg',
+    src: '/optimized_etelek/Sajtimado.jpg',
     ing: 'Marhahúspogácsa,füstölt paprikás cheddar sajtszósz, pirított hagyma, Cheddar sajt, füstölt edami sajt, maasdamer sajt, lilahagyma, jalapeno paprika',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3690',
@@ -101,7 +101,7 @@ export const KINALAT = [
     {
     id: 'szelhamos',
     name: 'Szélhámos',
-    src: '/etelek/Szelhamos.jpg',
+    src: '/optimized_etelek/Szelhamos.jpg',
     ing: 'Marhahúspogácsa 2x, Cheddar sajt 2x, Bacon, Rántott hagymakarika,paradicsom,uborka, lilahagyma, káposztasaláta,hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3990',
@@ -110,7 +110,7 @@ export const KINALAT = [
     {
     id: 'vegabb',
     name: 'Vegább Burger',
-    src: '/etelek/Vegabb.jpg',
+    src: '/optimized_etelek/Vegabb.jpg',
     ing: 'Vega húspogácsa, rántott hagymakarika, paradicsom, saláta, juhtúró, kapros szósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2890',
@@ -119,7 +119,7 @@ export const KINALAT = [
     {
     id: 'zsivany',
     name: 'Zsivány',
-    src: '/etelek/Zsivany.jpg',
+    src: '/optimized_etelek/Zsivany.jpg',
     ing: 'Marhahúspogácsa,lilahagyma lekvár(chutney) cheddar, bacon, pirított hagyma',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3990',
@@ -128,7 +128,7 @@ export const KINALAT = [
     {
     id: 'vega',
     name: 'Vega Burger',
-    src: '/etelek/Vega.jpg',
+    src: '/optimized_etelek/Vega.jpg',
     ing: 'Grillezett Camembert, áfonyalekvár, saláta, paradicsom, uborka, lilahagyma, hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2790',
@@ -137,7 +137,7 @@ export const KINALAT = [
     {
     id: 'utonallo',
     name: 'Útonálló Burger',
-    src: '/etelek/Lator.jpg',
+    src: '/optimized_etelek/Lator.jpg',
     ing: 'Grillezett Camembert, áfonyalekvár, saláta, paradicsom, uborka, lilahagyma, hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3990',
@@ -147,7 +147,7 @@ export const KINALAT = [
     { // SNACK BOX
     id: 'adria',
     name: 'Adria Box',
-    src: '/etelek/AdriaBox.jpg',
+    src: '/optimized_etelek/AdriaBox.jpg',
     ing: 'Vaslapon sült Fokhagymás olívás garnéla rák nyárs, tintahalkarika, ráktorpedó, (ráktemptúra), gyöngyhagyma, kapros szósz + választható köret',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3490',
@@ -156,7 +156,7 @@ export const KINALAT = [
     {
     id: 'camambert',
     name: 'Grillezett Camambert',
-    src: '/etelek/Camambert.jpg',
+    src: '/optimized_etelek/Camambert.jpg',
     ing: ' áfonyalekvárral + választható köret',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2990',
@@ -165,7 +165,7 @@ export const KINALAT = [
     {
     id: 'csibebox',
     name: 'Csibe Box',
-    src: '/etelek/Csibebox.jpg',
+    src: '/optimized_etelek/Csibebox.jpg',
     ing: 'Vaslapon sült csirkemell + választható köret',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2990',
@@ -174,7 +174,7 @@ export const KINALAT = [
     {
     id: 'csirkemellcsikok',
     name: 'Rántott csirkemellcsíkok',
-    src: '/etelek/Csirkemellcsikok.jpg',
+    src: '/optimized_etelek/Csirkemellcsikok.jpg',
     ing: '+választható köret',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3490',
@@ -183,7 +183,7 @@ export const KINALAT = [
     {
     id: 'gyerekbox_mozarella',
     name: 'Gyerek Box - Rántott Mozarella',
-    src: '/etelek/Gyerekbox_Mozarella.jpg',
+    src: '/optimized_etelek/Gyerekbox_Mozarella.jpg',
     ing: 'Rántott mozarella rudacskák, ketchup vagy majonéz + választható köret',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '1990',
@@ -192,7 +192,7 @@ export const KINALAT = [
     {
     id: 'gyerekbox_csirkemell',
     name: 'Gyerek Box - Rántott Csirkemell',
-    src: '/etelek/Gyerekbox_Csirkemell.jpg',
+    src: '/optimized_etelek/Gyerekbox_Csirkemell.jpg',
     ing: 'Rántott csirkemell csíkok, ketchup vagy majonéz + választható köret ',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '1990',
@@ -201,7 +201,7 @@ export const KINALAT = [
     {
     id: 'gyros',
     name: 'Vaslapos Gyros Tál',
-    src: '/etelek/Gyros.jpg',
+    src: '/optimized_etelek/Gyros.jpg',
     ing: 'Sültkrumpli, gyros hús, saláta, paradicsom, uborka, lilahagyma, lilakáposzta, kapros fokhagymás joghurt',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3490',
@@ -210,7 +210,7 @@ export const KINALAT = [
     {
     id: 'gyros_gorog',
     name: 'Vaslapos Gyros Tál - Görög salátával',
-    src: '/etelek/Gyros2.jpg',
+    src: '/optimized_etelek/Gyros2.jpg',
     ing: 'Sültkrumpli, gyros hús, saláta, paradicsom, uborka, lilahagyma, lilakáposzta, kapros fokhagymás joghurt, görögsaláta',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3990',
@@ -220,7 +220,7 @@ export const KINALAT = [
     {
     id: 'halfile',
     name: 'Rántott Halfilé',
-    src: '/etelek/Halfile.jpg',
+    src: '/optimized_etelek/Halfile.jpg',
     ing: 'kapros mártással + választható köret',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2990',
@@ -229,7 +229,7 @@ export const KINALAT = [
     {
     id: 'pulledbox',
     name: 'Pulled Pork Tál',
-    src: '/etelek/PulledBox.jpg',
+    src: '/optimized_etelek/PulledBox.jpg',
     ing: 'Hasábburgonya, amerikai coleslow saláta, pulled pork tépett hús rántott hagymakarika, jalapeno paprika, BBQ szósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3790',
@@ -238,7 +238,7 @@ export const KINALAT = [
     {
     id: 'sajtbansult',
     name: 'Sajtban sült Box',
-    src: '/etelek/SajtbansultBox.jpg',
+    src: '/optimized_etelek/SajtbansultBox.jpg',
     ing: 'Philadelphiai sajtgolyók, rántott camembert, mozarella rudacskák, jalapenos krémsajtgolyók + választható köret',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2990',
@@ -247,7 +247,7 @@ export const KINALAT = [
     {
     id: 'utonallobox',
     name: 'Útonálló Box',
-    src: '/etelek/UtonalloBox.jpg',
+    src: '/optimized_etelek/UtonalloBox.jpg',
     ing: 'Rántott karaj, vaslapon sült csirkemell filé, rántott hagymakarika, rántott camembert, tintahalkarika, választható szósz 2x, + választható köret',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3990',
@@ -256,7 +256,7 @@ export const KINALAT = [
     {
     id: 'vegabox',
     name: 'Vega Box',
-    src: '/etelek/VegaBox.jpg',
+    src: '/optimized_etelek/VegaBox.jpg',
     ing: 'Bécsi szelet káposztasalátával + választható köret',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2890',
@@ -265,7 +265,7 @@ export const KINALAT = [
     {
     id: 'wienerbox',
     name: 'Wiener Schintzel Box',
-    src: '/etelek/WienerBox.jpg',
+    src: '/optimized_etelek/WienerBox.jpg',
     ing: 'Grillezett Camembert, áfonyalekvár, saláta, paradicsom, uborka, lilahagyma, hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3490',
@@ -274,7 +274,7 @@ export const KINALAT = [
     { // KÖRETEK
     id: 'jazminrizs',
     name: 'Jázmin rizs',
-    src: '/etelek/Jazminrizs.jpg',
+    src: '/optimized_etelek/Jazminrizs.jpg',
     ing: '',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '1190',
@@ -283,7 +283,7 @@ export const KINALAT = [
     {
     id: 'hasabburgonya',
     name: 'Hasábburgonya',
-    src: '/etelek/Hasab.jpg',
+    src: '/optimized_etelek/Hasab.jpg',
     ing: '',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '1090',
@@ -292,7 +292,7 @@ export const KINALAT = [
     {
     id: 'edesburgonya',
     name: 'Édes burgonya',
-    src: '/etelek/Edesburgonya.jpg',
+    src: '/optimized_etelek/Edesburgonya.jpg',
     ing: '',
     description: "",
     ar: '1490',
@@ -301,7 +301,7 @@ export const KINALAT = [
     {
     id: 'rosztiburgonya',
     name: 'Rösztiburgonya',
-    src: '/etelek/Rosztiburgonya.jpg',
+    src: '/optimized_etelek/Rosztiburgonya.jpg',
     ing: 'Grillezett Camembert, áfonyalekvár, saláta, paradicsom, uborka, lilahagyma, hamburgerszósz',
     description: "",
     ar: '1190',
@@ -310,7 +310,7 @@ export const KINALAT = [
     {
     id: 'hagymakarikak',
     name: 'Rántott hagymakarika',
-    src: '/etelek/Hagymakarika.jpg',
+    src: '/optimized_etelek/Hagymakarika.jpg',
     ing: 'Grillezett Camembert, áfonyalekvár, saláta, paradicsom, uborka, lilahagyma, hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '990',
@@ -319,7 +319,7 @@ export const KINALAT = [
     { // SALÁTÁK
     id: 'kaposztasalata',
     name: 'Káposztasaláta',
-    src: '/etelek/Kaposztasalata2.jpg',
+    src: '/optimized_etelek/Kaposztasalata2.jpg',
     ing: '',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '790',
@@ -328,7 +328,7 @@ export const KINALAT = [
     {
     id: 'tavaszicsalamade',
     name: 'Tavaszi Csalamádé',
-    src: '/etelek/Tavaszicsalamade.jpg',
+    src: '/optimized_etelek/Tavaszicsalamade.jpg',
     ing: '',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '790',
@@ -337,7 +337,7 @@ export const KINALAT = [
     {
     id: 'utonallosalata',
     name: 'Útonálló saláta',
-    src: '/etelek/UtonalloSalata.jpg',
+    src: '/optimized_etelek/UtonalloSalata.jpg',
     ing: 'Ezersziget öntettel',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '1490',
@@ -346,7 +346,7 @@ export const KINALAT = [
     {
     id: 'gorogsalata',
     name: 'Görög saláta',
-    src: '/etelek/GorogSalata.jpg',
+    src: '/optimized_etelek/GorogSalata.jpg',
     ing: 'Uborka, koktélparadicsom, lilahagyma, oliva bogyó, feta sajt, bazsalikom, olivaolaj',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '1890',
@@ -355,7 +355,7 @@ export const KINALAT = [
     { // DESSZERTEK
     id: 'szufle',
     name: 'Belga csokoládé szuflé',
-    src: '/etelek/Szufle.jpg',
+    src: '/optimized_etelek/Szufle.jpg',
     ing: 'Grillezett Camembert, áfonyalekvár, saláta, paradicsom, uborka, lilahagyma, hamburgerszósz',
     description: "Vanillia fagylaltal, tejszínhabbal, karamellás öntettel",
     ar: '1790',
@@ -364,7 +364,7 @@ export const KINALAT = [
     {
     id: 'palacsinta',
     name: 'Palacsinta',
-    src: '/etelek/Szufle.jpg', //KEP CSERE
+    src: '/optimized_etelek/Szufle.jpg', //KEP CSERE
     ing: '2db / adag (Áfonyalekváros Kakaós Nutellás)',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '1400',
@@ -376,7 +376,7 @@ export const BURGEREK = [
     { //BURGEREK
     id: 'bandita',
     name: 'Bandita',
-    src: '/etelek/Bandita.jpg',
+    src: '/optimized_etelek/Bandita.jpg',
     ing: 'Marhahúspogácsa, Cheddar sajt, Bacon, Jalapeno paprika,Chili szósz, savanyított lilahagyma, paradicsom, uborka, saláta, hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3290',
@@ -385,7 +385,7 @@ export const BURGEREK = [
     {
     id: 'bekebiro',
     name: 'Békebíró',
-    src: '/etelek/Bekebiro.jpg',
+    src: '/optimized_etelek/Bekebiro.jpg',
     ing: 'Marhahúspogácsa, Bacon, Juhtúró, rántott hagymakarika, paradicsom, lilahagyma, saláta, hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3290',
@@ -394,7 +394,7 @@ export const BURGEREK = [
     {
     id: 'csalo',
     name: 'Csaló',
-    src: '/etelek/Csalo.jpg',
+    src: '/optimized_etelek/Csalo.jpg',
     ing: 'Marhahúspogácsa, uborka, lilahagyma, csalamádé,hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2690',
@@ -403,7 +403,7 @@ export const BURGEREK = [
     {
     id: 'csirkefogo',
     name: 'Csirkefogó',
-    src: '/etelek/Csirkefogo.jpg',
+    src: '/optimized_etelek/Csirkefogo.jpg',
     ing: 'Rántott csirkemellcsíkok, rántott hagymakarika,paradicsom, uborka, saláta, majonéz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2890',
@@ -412,7 +412,7 @@ export const BURGEREK = [
     {
     id: 'dagonya',
     name: 'Dagonya',
-    src: '/etelek/Dagonya.jpg',
+    src: '/optimized_etelek/Dagonya.jpg',
     ing: 'Marhahúspogácsa, Cheddar sajt, Bacon, Grillezett Camembert, áfonyalekvár, paradicsom, uborka, lilahagyma, saláta, hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3990',
@@ -421,7 +421,7 @@ export const BURGEREK = [
     {
     id: 'duplasajtburger',
     name: 'Dupla Sajtburger',
-    src: '/etelek/Duplasajt.jpg',
+    src: '/optimized_etelek/Duplasajt.jpg',
     ing: 'Marhahúspogácsa 2x, mustár, Cheddar sajt, csemegeuborka, ketchup, bacon',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3890',
@@ -430,7 +430,7 @@ export const BURGEREK = [
     {
     id: 'fish',
     name: 'Fish Burger',
-    src: '/etelek/Fish.jpg',
+    src: '/optimized_etelek/Fish.jpg',
     ing: 'Rántott halfilé, pikáns savanyított lilahagymával, friss paradicsom, ízletes kapros szósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2890',
@@ -439,7 +439,7 @@ export const BURGEREK = [
     {
     id: 'lator',
     name: 'Lator',
-    src: '/etelek/Lator.jpg',
+    src: '/optimized_etelek/Lator.jpg',
     ing: 'Marhahúspogácsa, Bacon, Cheddar sajt savanyított lilahagyma,BBQ szósz paradicsom, uborka, saláta,hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2990',
@@ -448,7 +448,7 @@ export const BURGEREK = [
     {
     id: 'pulledpork',
     name: 'Pulled pork Burger',
-    src: '/etelek/Pulled.jpg',
+    src: '/optimized_etelek/Pulled.jpg',
     ing: 'Mézes mustár, csemegeuborka, saláta, savanyított lilahagyma, paradicsom, pulled pork, rántott hagymakarika, BBQ',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3890',
@@ -457,7 +457,7 @@ export const BURGEREK = [
     {
     id: 'sajtburger',
     name: 'Sajtburger',
-    src: '/etelek/Sajtburger.jpg',
+    src: '/optimized_etelek/Sajtburger.jpg',
     ing: 'Marhahúspogácsa, csípős mustár, olvadó Cheddar sajt, ropogós csemegeuborka, hagyományos ketchup.',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2590',
@@ -466,7 +466,7 @@ export const BURGEREK = [
     {
     id: 'sajtimado',
     name: 'Sajtimádó',
-    src: '/etelek/Sajtimado.jpg',
+    src: '/optimized_etelek/Sajtimado.jpg',
     ing: 'Marhahúspogácsa,füstölt paprikás cheddar sajtszósz, pirított hagyma, Cheddar sajt, füstölt edami sajt, maasdamer sajt, lilahagyma, jalapeno paprika',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3690',
@@ -475,7 +475,7 @@ export const BURGEREK = [
     {
     id: 'szelhamos',
     name: 'Szélhámos',
-    src: '/etelek/Szelhamos.jpg',
+    src: '/optimized_etelek/Szelhamos.jpg',
     ing: 'Marhahúspogácsa 2x, Cheddar sajt 2x, Bacon, Rántott hagymakarika,paradicsom,uborka, lilahagyma, káposztasaláta,hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3990',
@@ -484,7 +484,7 @@ export const BURGEREK = [
     {
     id: 'vegabb',
     name: 'Vegább Burger',
-    src: '/etelek/Vegabb.jpg',
+    src: '/optimized_etelek/Vegabb.jpg',
     ing: 'Vega húspogácsa, rántott hagymakarika, paradicsom, saláta, juhtúró, kapros szósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2890',
@@ -493,7 +493,7 @@ export const BURGEREK = [
     {
     id: 'zsivany',
     name: 'Zsivány',
-    src: '/etelek/Zsivany.jpg',
+    src: '/optimized_etelek/Zsivany.jpg',
     ing: 'Marhahúspogácsa,lilahagyma lekvár(chutney) cheddar, bacon, pirított hagyma',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3990',
@@ -502,7 +502,7 @@ export const BURGEREK = [
     {
     id: 'vega',
     name: 'Vega Burger',
-    src: '/etelek/Vega.jpg',
+    src: '/optimized_etelek/Vega.jpg',
     ing: 'Grillezett Camembert, áfonyalekvár, saláta, paradicsom, uborka, lilahagyma, hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2790',
@@ -511,7 +511,7 @@ export const BURGEREK = [
     {
     id: 'utonallo',
     name: 'Útonálló Burger',
-    src: '/etelek/Lator.jpg',
+    src: '/optimized_etelek/Lator.jpg',
     ing: 'Grillezett Camembert, áfonyalekvár, saláta, paradicsom, uborka, lilahagyma, hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3990',
@@ -524,7 +524,7 @@ export const SNACKBOX = [
     { // SNACK BOX
     id: 'adria',
     name: 'Adria Box',
-    src: '/etelek/AdriaBox.jpg',
+    src: '/optimized_etelek/AdriaBox.jpg',
     ing: 'Vaslapon sült Fokhagymás olívás garnéla rák nyárs, tintahalkarika, ráktorpedó, (ráktemptúra), gyöngyhagyma, kapros szósz + választható köret',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3490',
@@ -533,7 +533,7 @@ export const SNACKBOX = [
     {
     id: 'camambert',
     name: 'Grillezett Camambert',
-    src: '/etelek/Camambert.jpg',
+    src: '/optimized_etelek/Camambert.jpg',
     ing: ' áfonyalekvárral + választható köret',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2990',
@@ -542,7 +542,7 @@ export const SNACKBOX = [
     {
     id: 'csibebox',
     name: 'Csibe Box',
-    src: '/etelek/Csibebox.jpg',
+    src: '/optimized_etelek/Csibebox.jpg',
     ing: 'Vaslapon sült csirkemell + választható köret',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2990',
@@ -551,7 +551,7 @@ export const SNACKBOX = [
     {
     id: 'csirkemellcsikok',
     name: 'Rántott csirkemellcsíkok',
-    src: '/etelek/Csirkemellcsikok.jpg',
+    src: '/optimized_etelek/Csirkemellcsikok.jpg',
     ing: '+választható köret',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3490',
@@ -560,7 +560,7 @@ export const SNACKBOX = [
     {
     id: 'gyerekbox_mozarella',
     name: 'Gyerek Box - Rántott Mozarella',
-    src: '/etelek/Gyerekbox_Mozarella.jpg',
+    src: '/optimized_etelek/Gyerekbox_Mozarella.jpg',
     ing: 'Rántott mozarella rudacskák, ketchup vagy majonéz + választható köret',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '1990',
@@ -569,7 +569,7 @@ export const SNACKBOX = [
     {
     id: 'gyerekbox_csirkemell',
     name: 'Gyerek Box - Rántott Csirkemell',
-    src: '/etelek/Gyerekbox_Csirkemell.jpg',
+    src: '/optimized_etelek/Gyerekbox_Csirkemell.jpg',
     ing: 'Rántott csirkemell csíkok, ketchup vagy majonéz + választható köret ',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '1990',
@@ -578,7 +578,7 @@ export const SNACKBOX = [
     {
     id: 'gyros',
     name: 'Vaslapos Gyros Tál',
-    src: '/etelek/Gyros.jpg',
+    src: '/optimized_etelek/Gyros.jpg',
     ing: 'Sültkrumpli, gyros hús, saláta, paradicsom, uborka, lilahagyma, lilakáposzta, kapros fokhagymás joghurt',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3490',
@@ -587,7 +587,7 @@ export const SNACKBOX = [
     {
     id: 'gyros_gorog',
     name: 'Vaslapos Gyros Tál - Görög salátával',
-    src: '/etelek/Gyros2.jpg',
+    src: '/optimized_etelek/Gyros2.jpg',
     ing: 'Sültkrumpli, gyros hús, saláta, paradicsom, uborka, lilahagyma, lilakáposzta, kapros fokhagymás joghurt, görögsaláta',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3990',
@@ -597,7 +597,7 @@ export const SNACKBOX = [
     {
     id: 'halfile',
     name: 'Rántott Halfilé',
-    src: '/etelek/Halfile.jpg',
+    src: '/optimized_etelek/Halfile.jpg',
     ing: 'kapros mártással + választható köret',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2990',
@@ -606,7 +606,7 @@ export const SNACKBOX = [
     {
     id: 'pulledbox',
     name: 'Pulled Pork Tál',
-    src: '/etelek/PulledBox.jpg',
+    src: '/optimized_etelek/PulledBox.jpg',
     ing: 'Hasábburgonya, amerikai coleslow saláta, pulled pork tépett hús rántott hagymakarika, jalapeno paprika, BBQ szósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3790',
@@ -615,7 +615,7 @@ export const SNACKBOX = [
     {
     id: 'sajtbansult',
     name: 'Sajtban sült Box',
-    src: '/etelek/SajtbansultBox.jpg',
+    src: '/optimized_etelek/SajtbansultBox.jpg',
     ing: 'Philadelphiai sajtgolyók, rántott camembert, mozarella rudacskák, jalapenos krémsajtgolyók + választható köret',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2990',
@@ -624,7 +624,7 @@ export const SNACKBOX = [
     {
     id: 'utonallobox',
     name: 'Útonálló Box',
-    src: '/etelek/UtonalloBox.jpg',
+    src: '/optimized_etelek/UtonalloBox.jpg',
     ing: 'Rántott karaj, vaslapon sült csirkemell filé, rántott hagymakarika, rántott camembert, tintahalkarika, választható szósz 2x, + választható köret',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3990',
@@ -633,7 +633,7 @@ export const SNACKBOX = [
     {
     id: 'vegabox',
     name: 'Vega Box',
-    src: '/etelek/VegaBox.jpg',
+    src: '/optimized_etelek/VegaBox.jpg',
     ing: 'Bécsi szelet káposztasalátával + választható köret',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '2890',
@@ -642,7 +642,7 @@ export const SNACKBOX = [
     {
     id: 'wienerbox',
     name: 'Wiener Schintzel Box',
-    src: '/etelek/WienerBox.jpg',
+    src: '/optimized_etelek/WienerBox.jpg',
     ing: 'Grillezett Camembert, áfonyalekvár, saláta, paradicsom, uborka, lilahagyma, hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '3490',
@@ -655,7 +655,7 @@ export const KORETEK = [
     { // KÖRETEK
     id: 'jazminrizs',
     name: 'Jázmin rizs',
-    src: '/etelek/Jazminrizs.jpg',
+    src: '/optimized_etelek/Jazminrizs.jpg',
     ing: '',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '1190',
@@ -664,7 +664,7 @@ export const KORETEK = [
     {
     id: 'hasabburgonya',
     name: 'Hasábburgonya',
-    src: '/etelek/Hasab.jpg',
+    src: '/optimized_etelek/Hasab.jpg',
     ing: '',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '1090',
@@ -673,7 +673,7 @@ export const KORETEK = [
     {
     id: 'edesburgonya',
     name: 'Édes burgonya',
-    src: '/etelek/Edesburgonya.jpg',
+    src: '/optimized_etelek/Edesburgonya.jpg',
     ing: '',
     description: "",
     ar: '1490',
@@ -682,7 +682,7 @@ export const KORETEK = [
     {
     id: 'rosztiburgonya',
     name: 'Rösztiburgonya',
-    src: '/etelek/Rosztiburgonya.jpg',
+    src: '/optimized_etelek/Rosztiburgonya.jpg',
     ing: 'Grillezett Camembert, áfonyalekvár, saláta, paradicsom, uborka, lilahagyma, hamburgerszósz',
     description: "",
     ar: '1190',
@@ -691,7 +691,7 @@ export const KORETEK = [
     {
     id: 'hagymakarikak',
     name: 'Rántott hagymakarika',
-    src: '/etelek/Hagymakarika.jpg',
+    src: '/optimized_etelek/Hagymakarika.jpg',
     ing: 'Grillezett Camembert, áfonyalekvár, saláta, paradicsom, uborka, lilahagyma, hamburgerszósz',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '990',
@@ -703,7 +703,7 @@ export const SALATAK = [
     { // SALÁTÁK
     id: 'kaposztasalata',
     name: 'Káposztasaláta',
-    src: '/etelek/Kaposztasalata2.jpg',
+    src: '/optimized_etelek/Kaposztasalata2.jpg',
     ing: '',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '790',
@@ -712,7 +712,7 @@ export const SALATAK = [
     {
     id: 'tavaszicsalamade',
     name: 'Tavaszi Csalamádé',
-    src: '/etelek/Tavaszicsalamade.jpg',
+    src: '/optimized_etelek/Tavaszicsalamade.jpg',
     ing: '',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '790',
@@ -721,7 +721,7 @@ export const SALATAK = [
     {
     id: 'utonallosalata',
     name: 'Útonálló saláta',
-    src: '/etelek/UtonalloSalata.jpg',
+    src: '/optimized_etelek/UtonalloSalata.jpg',
     ing: 'Ezersziget öntettel',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '1490',
@@ -730,7 +730,7 @@ export const SALATAK = [
     {
     id: 'gorogsalata',
     name: 'Görög saláta',
-    src: '/etelek/GorogSalata.jpg',
+    src: '/optimized_etelek/GorogSalata.jpg',
     ing: 'Uborka, koktélparadicsom, lilahagyma, oliva bogyó, feta sajt, bazsalikom, olivaolaj',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '1890',
@@ -742,7 +742,7 @@ export const DESSZERTEK = [
     { // DESSZERTEK
     id: 'szufle',
     name: 'Belga csokoládé szuflé',
-    src: '/etelek/Szufle.jpg',
+    src: '/optimized_etelek/Szufle.jpg',
     ing: 'Grillezett Camembert, áfonyalekvár, saláta, paradicsom, uborka, lilahagyma, hamburgerszósz',
     description: "Vanillia fagylaltal, tejszínhabbal, karamellás öntettel",
     ar: '1790',
@@ -751,7 +751,7 @@ export const DESSZERTEK = [
     {
     id: 'palacsinta',
     name: 'Palacsinta',
-    src: '/etelek/Szufle.jpg', //KEP CSERE
+    src: '/optimized_etelek/Szufle.jpg', //KEP CSERE
     ing: '2db / adag (Áfonyalekváros Kakaós Nutellás)',
     description: "Lorem Ipsum is simply dummy text of the  printing and typesetting industry. Lorem Ipsum has been the industry's  standard dummy text ever since the 1500s.",
     ar: '1400',

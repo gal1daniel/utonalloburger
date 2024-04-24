@@ -5,14 +5,14 @@ import React from 'react'
 const QR = () => {
   return (
     <section className='max-container padding-container md:pt-[100px]'>
-        <div className='my-20 w-full py-0 md:py-20 bg-darker-black rounded-2xl flex flex-col md:flex-row gap-4 p-6'>
+        <div className='relative my-20 w-full py-0 md:py-10 bg-darker-black rounded-2xl jusity-center flex flex-col md:flex-row gap-4 p-6'>
 
-            <div className='relative w-full md:w-1/2 flex items-center justify-center'>
-                <div className='hidden md:flex absolute -right-40'>
+            <div className='w-full md:w-1/2 flex items-center justify-end'>
+                <div className='hidden md:flex absolute'>
                     <Image
-                        src="/phone2.png"
+                        src="/phone2.webp"
                         alt='iphone'
-                        width={500}
+                        width={800}
                         height={400}
                         className='w-8/12 h-auto'
                     />
@@ -26,7 +26,7 @@ const QR = () => {
                 <Link href="/kinalat" className='text-center bg-yellow-300 py-2 px-8 font-medium text-main-black rounded-2xl'>Kínálatunk</Link>
                 <div className='flex justify-center md:hidden pt-10'>
                     <Image
-                        src="/phone_mobile.png"
+                        src="/phone_mobile.webp"
                         alt='iphone'
                         width={500}
                         height={400}

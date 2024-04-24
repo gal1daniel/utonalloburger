@@ -45,7 +45,7 @@ const page = () => {
     <section className='max-container padding-container'>
       <div className='relative'>
         <Image src="/utonallo_logo.svg" width={300} height={800} alt='Logo' className='absolute w-[100px] md:w-[200px] lg:w-[300px]'/>
-        <Image src="/Etlap_banner2.png" alt='Etlap Banner' width={3000} height={1000}
+        <Image src="/Etlap_banner2.webp" alt='Etlap Banner' width={3000} height={1000}
         className='w-full h-auto'
         />
       </div>

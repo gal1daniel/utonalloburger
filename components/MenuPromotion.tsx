@@ -6,7 +6,7 @@ const MenuPromotion = () => {
     <section className='max-container padding-container'>
         <div className='my-10 md:my-20 bg-[url("/etelek/Hasab.jpg")] bg-cover bg-center p-8 text-white'>
             <div className='max-w-lg'>
-                <p className='text-6xl font-bold uppercase leading-snug my-5'>
+                <p className='text-4xl md:text-6xl font-bold uppercase leading-snug my-5'>
                     Burger<br/>
                     BURGONYA<br/>
                     ÜDÍTŐ<span className='text-main-yellow'> -10%</span>

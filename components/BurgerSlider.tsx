@@ -9,6 +9,7 @@ import { Autoplay } from 'swiper/modules';
 import 'swiper/css'
 import 'swiper/css/free-mode'
 import 'swiper/css/autoplay';
+import Image from 'next/image';
 
 const BurgerSlider = () => {
   return (
@@ -23,7 +24,7 @@ const BurgerSlider = () => {
                 breakpoints={{
                     320: {
                         spaceBetween: 50,
-                        slidesPerView: 2,
+                        slidesPerView: 1,
                     },
                     640: { // Tailwind 'sm' breakpoint
                         slidesPerView: 2,
@@ -39,7 +40,7 @@ const BurgerSlider = () => {
                     },
                 }}
                 autoplay={{
-                    delay: 2000, // 2 seconds delay
+                    delay: 1000, // 2 seconds delay
                     disableOnInteraction: false,
                 }}
                 loop={true} // Enable loop
@@ -73,7 +74,7 @@ type EtlapItems = {
   const BurgerCard: React.FC<EtlapItems> = ({ name, desc, src, id }) => {
     return (
       <a href={`kinalat/${id}`}  className="max-w-sm rounded overflow-hidden shadow-lg">
-      <img className="w-full rounded-lgtransition transform duration-200 hover:scale-105 " src={src} alt={name} />
+      <Image width={1200} height={500} className="w-full h-auto rounded-lgtransition transform duration-200 hover:scale-105 " src={src} alt={name} />
       <div className="py-4">
         <div className="font-bold text-xl mb-2 text-white">{name}</div>
         <p className="text-gray-300 text-xs">

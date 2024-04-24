@@ -3,6 +3,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { KINALAT } from '@/constants';
 import Image from 'next/image';
+import Link from 'next/link';
 
 const Kinalat = () => {
     // State variables for search query and category
@@ -54,7 +55,7 @@ const Kinalat = () => {
         <section className="max-container padding-container">
             <div className='relative'>
                 <Image src="/utonallo_logo.svg" width={300} height={800} alt='Logo' className='absolute w-[100px] md:w-[200px] lg:w-[300px]'/>
-                <Image src="/Kinalat_banner2.png" alt='Kinalat Banner' width={3000} height={1000}
+                <Image src="/Kinalat_banner2.webp" alt='Kinalat Banner' width={3000} height={1000}
                 className='w-full h-auto'
                 />
             </div>
@@ -188,11 +189,11 @@ const KinalatCard: React.FC<KinalatCardProps> = ({ name, ing, src, id }) => {
 
     return (
         <div id='foodcards' className="max-w-sm p-5 rounded-lg transform transition">
-            <a href={`/kinalat/${id}`}>
+            <Link href={`/kinalat/${id}`}>
                 <picture className='rounded-t-lg overflow-hidden block'>
-                    <img className="hover:scale-110 ease-in duration-150" src={src} alt={name} />
+                    <Image width={300} height={300} className="hover:scale-110 ease-in duration-150" src={src} alt={name} />
                 </picture>
-            </a>
+            </Link>
             <div className="mt-5">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{name}</h5>
                 <p className="mb-3 font-normal text-xs text-gray-300">{ing}</p>
