@@ -29,7 +29,7 @@ const FoodDetail: React.FC = () => {
                     <div className='flex items-center justify-between'>
                         <h5 className="mb-3 text-3xl font-extrabold leading-none sm:text-4xl text-main-yellow">
                             {food.name}
-                        </h5>
+                        </h5><br className='md:hidden'/>
                         <p className='text-2xl text-white font-bold px-4'>{food.ar},-</p>
                     </div>
                     <p className="mb-5 text-gray-300 text-sm">{food.ing}</p>
