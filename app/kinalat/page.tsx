@@ -54,13 +54,13 @@ const Kinalat = () => {
     return (
         <section className="max-container padding-container">
             <div className='relative'>
-                <Image src="/utonallo_logo.svg" width={300} height={800} alt='Logo' className='absolute w-[100px] md:w-[200px] lg:w-[300px]'/>
-                <Image src="/Kinalat_banner2.webp" alt='Kinalat Banner' width={3000} height={1000}
+                <Image src="/utonallo_logo.svg" width={300} height={800} alt='Logo' priority loading='eager' className='absolute w-[100px] md:w-[200px] lg:w-[300px]'/>
+                <Image src="/Kinalat_banner2.webp" alt='Kinalat Banner'  loading='eager' width={3000} height={1000}
                 className='w-full h-auto'
                 />
             </div>
             <div className='flex items-center justify-center flex-col'>
-                <Image className='absolute lg:w-[800px] w-1/2' src="/kinalat_text.svg" alt='Etlap Text' width={800} height={200}/>
+                <Image className='absolute lg:w-[800px] w-1/2' src="/kinalat_text.svg" alt='Etlap Text' priority loading='eager' width={800} height={200}/>
             </div>
 
             <div className="flex justify-center flex-col m-5 text-white mt-20 lg:mt-40">

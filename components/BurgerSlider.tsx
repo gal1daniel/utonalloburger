@@ -74,7 +74,7 @@ type EtlapItems = {
   const BurgerCard: React.FC<EtlapItems> = ({ name, desc, src, id }) => {
     return (
       <a href={`kinalat/${id}`}  className="max-w-sm rounded overflow-hidden shadow-lg">
-      <Image width={1200} height={500} className="w-full h-auto rounded-lgtransition transform duration-200 hover:scale-105 " src={src} alt={name} />
+      <Image width={1200} height={500} className="w-full h-auto transition transform duration-200 hover:scale-105" priority loading='eager' src={src} alt={name} />  
       <div className="py-4">
         <div className="font-bold text-xl mb-2 text-white">{name}</div>
         <p className="text-gray-300 text-xs">

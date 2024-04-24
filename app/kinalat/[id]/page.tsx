@@ -23,7 +23,7 @@ const FoodDetail: React.FC = () => {
             <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
                 <div className="flex flex-col max-w-screen-lg overflow-hidden shadow-sm lg:flex-row sm:mx-auto">
                     <div className="relative lg:w-1/2">
-                    <Image width={800} height={500} src={food.src} alt={food.name} className="object-cover w-full lg:absolute h-80 lg:h-full" />
+                    <Image width={800} height={500} src={food.src} alt={food.name} priority loading='eager' className="object-cover w-full lg:absolute h-80 lg:h-full" />
                     </div>
                     <div className="flex flex-col justify-center p-8 lg:p-16 lg:pl-10 lg:w-1/2">
                     <div className='flex items-center justify-between'>
