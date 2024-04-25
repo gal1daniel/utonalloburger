@@ -6,7 +6,14 @@ const Hero = () => {
     <section className='padding-container max-container'>
         <div className='relative'>
             <Image src="/utonallo_logo.svg" width={300} height={800} alt='Logo' priority loading='eager' className='absolute w-[100px] md:w-[200px] lg:w-[300px]'/>
-            <Image src="/Hero_banner2.webp" alt='Hero Banner' priority loading='eager' width={3000} height={1000}
+            <Image 
+            src="/Hero_banner2.webp" 
+            alt='Hero Banner' 
+            priority 
+            loading='eager' 
+            width={3000} 
+            height={1000}
+            
             className='w-full h-auto'
             />
         </div>

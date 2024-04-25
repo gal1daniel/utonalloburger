@@ -44,20 +44,20 @@ const page = () => {
   return (
     <section className='max-container padding-container'>
       <div className='relative'>
-        <Image src="/utonallo_logo.svg" width={300} height={800} alt='Logo' className='absolute w-[100px] md:w-[200px] lg:w-[300px]'/>
-        <Image src="/Etlap_banner2.webp" alt='Etlap Banner' width={3000} height={1000}
+        <Image src="/utonallo_logo.svg" priority loading='eager' width={300} height={800} alt='Logo' className='absolute w-[100px] md:w-[200px] lg:w-[300px]'/>
+        <Image src="/Etlap_banner2.webp" priority loading='eager' alt='Etlap Banner' width={3000} height={1000}
         className='w-full h-auto'
         />
       </div>
       <div className='flex items-center justify-center flex-col'>
-        <Image className='absolute lg:w-[800px] w-1/2' src="/etlap_text.svg" alt='Etlap Text' width={800} height={200}/>
+        <Image priority loading='eager' className='absolute lg:w-[800px] w-1/2' src="/etlap_text.svg" alt='Etlap Text' width={800} height={200}/>
       </div>
   
       <div className='mt-[50px] md:mt-[100px]'>
       <div className='my-20'>
         <div className="w-[100px] h-[2px] bg-yellow-300 mb-2" />
         <h2 className="mb-2 font-semibold text-3xl text-white">Nézze meg az étlapunkat!</h2>
-        <p className="mb-5 lg:w-1/2 w-full text-xs text-gray-200">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+        <p className="mb-5 lg:w-1/2 w-full text-xs text-gray-200">Fedezze fel az ízletes burgereket, széleskörű táljainkat és különleges fogásokat az étlapunkon! Válogasson kínálatunkból és találja meg a kedvencét. Ne várjon tovább, nézze meg menünket most!</p>
       </div>
       {/* Hamburgerek Section */}
       <div className='flex flex-row gap-2 items-center mb-3'>

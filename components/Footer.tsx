@@ -12,10 +12,10 @@ const Footer = () => {
                 </a>
                 <div className="mt-6 lg:max-w-sm">
                     <p className="text-xs text-gray-300">
-                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                    Az <span className='text-main-yellow'>ÚTONÁLLÓ</span> burgerezőben a frissességet és a minőséget helyezzük előtérbe. Helyi és szezonális alapanyagokból készítjük ételeinket, hogy mindig a legjobb ízekkel szolgáljunk fel.
                     </p>
                     <p className="mt-4 text-xs text-gray-300">
-                    Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                    Várunk szeretettel, hogy élvezd az egyedi burgereket és brunch ételeket!
                     </p>
                 </div>
                 </div>
@@ -56,7 +56,7 @@ const Footer = () => {
                     </a>
                 </div>
                 <p className="mt-4 text-xs text-gray-300">
-                    Bacon ipsum dolor amet short ribs pig sausage prosciutto chicken spare ribs salami.
+                Kövess minket a közösségi médián, hogy mindig naprakész legyél az újdonságainkkal és eseményeinkkel kapcsolatban! Csatlakozz közösségünkhöz és oszd meg velünk élményeidet!
                 </p>
                 </div>
             </div>

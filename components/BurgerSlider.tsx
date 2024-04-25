@@ -17,7 +17,7 @@ const BurgerSlider = () => {
         <div className='my-20'>
             <div className="w-[100px] h-[2px] bg-yellow-300 mb-2" />
             <h2 className="mb-2 font-semibold text-3xl text-white">Vendégeink kedvence!</h2>
-            <p className="mb-5 lg:w-1/2 w-full text-xs text-gray-200">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+            <p className="mb-5 lg:w-1/2 w-full text-xs text-gray-200">A legtöbbet kért és méltán népszerű választásunk: frissen sütött burgerek, ropogós zöldségekkel és házi szószokkal, mindezt a legjobb alapanyagokból készítve. Az ízek harmóniája, ami visszahozza a vendégeket!</p>
         </div>
         <div>
             <Swiper

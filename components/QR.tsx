@@ -22,7 +22,7 @@ const QR = () => {
 
             <div className='w-full md:w-1/2 flex flex-col justify-center'>
                 <p className='text-3xl text-white mb-4 font-bold'>OLVASD BE A <span className='text-main-yellow'>QR KÓDUNK</span> ÉS NÉZD MEG AZ <span className='text-main-yellow'>ÉTLAPOT</span>!</p>
-                <p className='text-gray-300 mb-6'><span className='text-white font-bold'>Lorem Ipsum</span> is simply dummy text of the printing and typesetting industry. Lorem Ipsum <span className='text-white font-bold'>has been the industry's standard</span> dummy text ever since the 1500s. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                <p className='text-gray-300 mb-6'>Szeretnél betekintést nyerni az ízletes kínálatunkba? Olvasd be<span className='text-white font-bold'> QR kódunka</span> és fedezd fel az egyedülálló menünket! Különleges<span className='text-white font-bold'> BURGEREK, SNACK BOXOK, SALÁTÁK, DESSZERTEK ÉS ITALOK</span> várnak rád. Ne hagyd ki ezt az élményt, nézd meg még ma!</p>
                 <Link href="/kinalat" className='text-center bg-yellow-300 py-2 px-8 font-medium text-main-black rounded-2xl'>Kínálatunk</Link>
                 <div className='flex justify-center md:hidden pt-10'>
                     <Image

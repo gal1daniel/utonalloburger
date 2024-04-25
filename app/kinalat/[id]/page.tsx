@@ -26,15 +26,17 @@ const FoodDetail: React.FC = () => {
                     <Image width={800} height={500} src={food.src} alt={food.name} priority loading='eager' className="object-cover w-full lg:absolute h-80 lg:h-full" />
                     </div>
                     <div className="flex flex-col justify-center p-8 lg:p-16 lg:pl-10 lg:w-1/2">
-                    <div className='flex items-center justify-between'>
+                    <div className='flex items:start md:items-center justify-between md:flex-row flex-col'>
                         <h5 className="mb-3 text-3xl font-extrabold leading-none sm:text-4xl text-main-yellow">
                             {food.name}
-                        </h5><br className='md:hidden'/>
-                        <p className='text-2xl text-white font-bold px-4'>{food.ar},-</p>
+                        </h5>
+                        <p className='text-2xl text-white font-bold pb-5 md:px-4'>{food.ar},-</p>
                     </div>
-                    <p className="mb-5 text-gray-300 text-sm">{food.ing}</p>
-                    <hr className="h-px mb-5 bg-gray-700 border-0"></hr>
-                    <p className='mb-5 text-white'>{food.description}</p>
+                    <div className='text-xs md:text-lg'>
+                        <p className="mb-5 text-gray-300 md:text-sm text-xs">{food.ing}</p>
+                        <hr className="h-px mb-5 bg-gray-700 border-0"></hr>
+                        <p className='mb-5 text-white'>{food.description}</p>
+                    </div>
                     <div className="flex items-center">
                     <Link href="/etlap" className='bg-yellow-300 py-2 px-8 font-medium text-main-black rounded-2xl'>Étlap</Link>
                     </div>
