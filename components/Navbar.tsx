@@ -7,7 +7,6 @@ import Image from 'next/image';
 import { FaInstagram } from 'react-icons/fa6';
 import { FaFacebook } from 'react-icons/fa';
 import Link from 'next/link';
-import { useRouter } from 'next/router';
 
 const Navbar = () => {
     // State to control the visibility of the mobile menu
@@ -51,7 +50,7 @@ const Navbar = () => {
                                 <p
                                     aria-label="Kezdőlap"
                                     title="Kezdőlap"
-                                    className="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
+                                    className="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-main-yellow"
                                     onClick={handleLinkClick}
                                 >
                                     Kezdőlap
@@ -63,7 +62,7 @@ const Navbar = () => {
                                 <p
                                     aria-label="Étlap"
                                     title="Étlap"
-                                    className="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
+                                    className="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-main-yellow"
                                     onClick={handleLinkClick}
                                 >
                                     Étlap
@@ -75,7 +74,7 @@ const Navbar = () => {
                                 <p
                                     aria-label="Kínálat"
                                     title="Kínálat"
-                                    className="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
+                                    className="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-main-yellow"
                                     onClick={handleLinkClick}
                                 >
                                     Kínálat
@@ -97,22 +96,22 @@ const Navbar = () => {
                                 <p
                                     aria-label="Kapcsolat"
                                     title="Kapcsolat"
-                                    className="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
+                                    className="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-main-yellow"
                                 >
                                     Kapcsolat
                                 </p>
                             </Link>
                         </li>
                         <li>
-                            <Link href="/facebook" passHref>
-                                <p aria-label="Facebook" title="Facebook" className="text-gray-100 transition-colors duration-200 hover:text-teal-accent-400">
+                            <Link href="https://www.facebook.com/utonalloburger" passHref target='_blank'>
+                                <p aria-label="Facebook" title="Facebook" className="text-gray-100 transition-colors duration-200 hover:text-main-yellow">
                                     <FaFacebook className="w-6 h-6" />
                                 </p>
                             </Link>
                         </li>
                         <li>
-                            <Link href="/instagram" passHref>
-                                <p aria-label="Instagram" title="Instagram" className="text-gray-100 transition-colors duration-200 hover:text-teal-accent-400">
+                            <Link href="https://www.instagram.com/utonalloburger" passHref target='_blank'>
+                                <p aria-label="Instagram" title="Instagram" className="text-gray-100 transition-colors duration-200 hover:text-main-yellow">
                                     <FaInstagram className="w-6 h-6" />
                                 </p>
                             </Link>
@@ -165,22 +164,22 @@ const Navbar = () => {
                                         <ul className="space-y-4">
                                             <li>
                                                 <Link href="/" passHref>
-                                                    <p aria-label="Kezdőlap" title="Kezdőlap" className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-teal-accent-400" onClick={handleLinkClick}>Kezdőlap</p>
+                                                    <p aria-label="Kezdőlap" title="Kezdőlap" className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-main-yellow" onClick={handleLinkClick}>Kezdőlap</p>
                                                 </Link>
                                             </li>
                                             <li>
                                                 <Link href="/etlap" passHref>
-                                                    <p aria-label="Étlap" title="Étlap" className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-teal-accent-400" onClick={handleLinkClick}>Étlap</p>
+                                                    <p aria-label="Étlap" title="Étlap" className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-main-yellow" onClick={handleLinkClick}>Étlap</p>
                                                 </Link>
                                             </li>
                                             <li>
                                                 <Link href="/kinalat" passHref>
-                                                    <p aria-label="Kínálat" title="Kínálat" className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-teal-accent-400" onClick={handleLinkClick}>Kínálat</p>
+                                                    <p aria-label="Kínálat" title="Kínálat" className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-main-yellow" onClick={handleLinkClick}>Kínálat</p>
                                                 </Link>
                                             </li>
                                             <li>
                                                 <Link href="/#kapcsolat" passHref>
-                                                    <p aria-label="Kapcsolat" title="Kapcsolat" className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-teal-accent-400" onClick={handleLinkClick}>Kapcsolat</p>
+                                                    <p aria-label="Kapcsolat" title="Kapcsolat" className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-main-yellow" onClick={handleLinkClick}>Kapcsolat</p>
                                                 </Link>
                                             </li>
                                         </ul>

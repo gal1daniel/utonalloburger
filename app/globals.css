@@ -28,3 +28,9 @@ html {
 
 }
 
+.active-link{
+  text-decoration: underline;
+  -webkit-text-decoration-color: #E9D74D; /* Safari */  
+  text-decoration-color: #E9D74D;
+}
+
