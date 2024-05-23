@@ -257,7 +257,7 @@ const BurgerItems: React.FC<EtlapItems> = ({ name, ing, ar, id }) => {
         <p className='text-xl text-white font-bold'>{ar},-</p>
       </div>
       <div>
-        <p className='text-sm text-gray-300'>{ing}</p>
+        <p className='text-sm text-gray-300 w-full'>{ing}</p>
       </div>
     </a>
   );

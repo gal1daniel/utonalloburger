@@ -11,15 +11,15 @@ const kumbh = Kumbh_Sans({ subsets: ['latin'] });
 export const metadata: Metadata = {
     title: 'Útonálló Burger',
     description: 'Kiváló minőségű, egyedi ízvilágú hamburgerek friss alapanyagokból. Kóstold meg az ország legfinomabb burgereit!',
-    metadataBase: new URL("https://https://utonalloburger.vercel.app"),
+    metadataBase: new URL("https://https://utonalloburger.hu"),
     openGraph: {
         title: "Útonálló Burger",
         description: 'Kiváló minőségű, egyedi ízvilágú hamburgerek friss alapanyagokból. Kóstold meg az ország legfinomabb burgereit!',
-        url: "https://https://utonalloburger.vercel.app",
+        url: "https://https://utonalloburger.hu",
         siteName: "Útonálló",
         images: [
             {
-                url: 'https://utonalloburger.vercel.app/og.png',
+                url: 'https://utonalloburger.hu/og.png',
                 width: 1260,
                 height: 800,
             }

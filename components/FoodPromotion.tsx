@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import React from 'react'
 
 const FoodPromotion = () => {
@@ -8,7 +9,7 @@ const FoodPromotion = () => {
             <h2 className="mb-2 font-semibold text-3xl text-white">Amit találsz nálunk!</h2>
             <p className="mb-5 lg:w-1/2 w-full text-xs text-gray-200">Fedezd fel a kreatív burgereinket és "Snack Box" választékainkat, amelyek friss, helyi alapanyagokból készülnek! Nálunk minden falat izgalmas és egyedi élményt nyújt.</p>
         </div>
-        <div className='flex flex-col md:flex-row uppercase text-3xl md:text-4xl gap-3'>
+        <Link href="/kinalat" className='flex flex-col md:flex-row uppercase text-3xl md:text-4xl gap-3'>
             <div className='w-full md:w-1/2 aspect-square'>
                 <div className='hover:scale-95 transform transition duration-500 bg-[url("/Promo_Burger.webp")] bg-cover bg-center p-4 text-white aspect-square'>
                     <p className='drop-shadow-md'>Burgerek</p>
@@ -23,7 +24,7 @@ const FoodPromotion = () => {
                     <p className='drop-shadow-md'>Saláták</p>
                 </div>
             </div>
-        </div>
+        </Link>
     </section>
 
 

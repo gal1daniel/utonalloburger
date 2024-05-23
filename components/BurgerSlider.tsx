@@ -40,7 +40,7 @@ const BurgerSlider = () => {
                     },
                 }}
                 autoplay={{
-                    delay: 1000, // 2 seconds delay
+                    delay: 3000, // 2 seconds delay
                     disableOnInteraction: false,
                 }}
                 loop={true} // Enable loop
