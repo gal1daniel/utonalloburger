@@ -12,7 +12,7 @@ const Footer = () => {
                 </a>
                 <div className="mt-6 lg:max-w-sm">
                     <p className="text-xs text-gray-300">
-                    Az <span className='text-main-yellow'>ÚTONÁLLÓ</span> burgerezőben a frissességet és a minőséget helyezzük előtérbe. Helyi és szezonális alapanyagokból készítjük ételeinket, hogy mindig a legjobb ízekkel szolgáljunk fel.
+                    Az <span className='text-main-yellow'>ÚTONÁLLÓ</span> burgerezőben a frissességet és a minőséget helyezzük előtérbe. Friss alapanyagokból készítjük ételeinket, hogy mindig a legjobb ízekkel szolgáljunk fel.
                     </p>
                     <p className="mt-4 text-xs text-gray-300">
                     Várunk szeretettel, hogy élvezd az egyedi burgereket és brunch ételeket!
@@ -20,14 +20,14 @@ const Footer = () => {
                 </div>
                 </div>
                 <div className="space-y-2 text-xs">
-                <p className="text-base font-bold tracking-wide text-main-yellow">Contacts</p>
+                <p className="text-base font-bold tracking-wide text-main-yellow">Kapcsolat</p>
                 <div className="flex">
                     <p className="mr-1 text-gray-300">Telefonszám:</p>
                     <a href="tel:06-30-123-2390" aria-label="Our phone" title="Our phone" className="transition-colors duration-300 text-main-yellow">+36 30 123 2390</a>
                 </div>
                 <div className="flex">
                     <p className="mr-1 text-gray-300">Email:</p>
-                    <a href="mailto:info@utonalloburger.hu" aria-label="Our email" title="Our email" className="transition-colors duration-300  text-main-yellow">info@utonalloburger.hu</a>
+                    <a href="mailto:info@utonalloburger.hu" aria-label="Our email" title="Our email" className="transition-colors duration-300  text-main-yellow">utonallo@utonalloburger.hu</a>
                 </div>
                 <div className="flex">
                     <p className="mr-1 text-gray-300">Cím:</p>
@@ -37,7 +37,7 @@ const Footer = () => {
                 </div>
                 </div>
                 <div>
-                <span className="text-base font-bold tracking-wide text-main-yellow">Social</span>
+                <span className="text-base font-bold tracking-wide text-main-yellow">Közösség</span>
                 <div className="flex items-center mt-1 space-x-3">
                     <a href="https://www.instagram.com/utonalloburger" target='_blank' className="text-gray-300 transition-colors duration-300 hover:text-deep-purple-accent-400">
                     <svg viewBox="0 0 30 30" fill="currentColor" className="h-6">
@@ -66,10 +66,10 @@ const Footer = () => {
                 </p>
                 <ul className="flex flex-col mb-3 space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row">
                 <li>
-                    <a href="/" className="text-sm text-gray-300 transition-colors duration-300 hover:text-deep-purple-accent-400">Privacy Policy</a>
+                    <a href="/adatvedelmi_iranyelvek" className="text-sm text-gray-300 transition-colors duration-300 hover:text-deep-purple-accent-400">Adatvédelmi irányelvek</a>
                 </li>
                 <li>
-                    <a href="/" className="text-sm text-gray-300 transition-colors duration-300 hover:text-deep-purple-accent-400">Terms &amp; Conditions</a>
+                    <a href="/altalanos_szerzodesi_feltetelek" className="text-sm text-gray-300 transition-colors duration-300 hover:text-deep-purple-accent-400">Általános Szerződési Feltételek</a>
                 </li>
                 </ul>
             </div>

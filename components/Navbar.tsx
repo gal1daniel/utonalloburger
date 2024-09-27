@@ -70,14 +70,14 @@ const Navbar = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link href="/kinalat" passHref>
+                            <Link href="#menupromo" passHref>
                                 <p
-                                    aria-label="Kínálat"
-                                    title="Kínálat"
+                                    aria-label="Rólunk"
+                                    title="Rólunk"
                                     className="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-main-yellow"
                                     onClick={handleLinkClick}
                                 >
-                                    Kínálat
+                                    Rólunk
                                 </p>
                             </Link>
                         </li>
@@ -173,8 +173,8 @@ const Navbar = () => {
                                                 </Link>
                                             </li>
                                             <li>
-                                                <Link href="/kinalat" passHref>
-                                                    <p aria-label="Kínálat" title="Kínálat" className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-main-yellow" onClick={handleLinkClick}>Kínálat</p>
+                                                <Link href="#menupromo" passHref>
+                                                    <p aria-label="Rólunk" title="Rólunk" className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-main-yellow" onClick={handleLinkClick}>Rólunk</p>
                                                 </Link>
                                             </li>
                                             <li>

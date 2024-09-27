@@ -88,6 +88,7 @@ const page = () => {
                   name={etel.name}
                   ing={etel.ing}
                   id={etel.id}
+                  src={etel.src}
                 />
               ))}
             </div>
@@ -124,6 +125,7 @@ const page = () => {
                   name={etel.name}
                   ing={etel.ing}
                   id={etel.id}
+                  src={etel.src}
                 />
               ))}
             </div>
@@ -160,6 +162,7 @@ const page = () => {
                   name={etel.name}
                   ing={etel.ing}
                   id={etel.id}
+                  src={etel.src}
                 />
               ))}
             </div>
@@ -196,6 +199,7 @@ const page = () => {
                   name={etel.name}
                   ing={etel.ing}
                   id={etel.id}
+                  src={etel.src}
                 />
               ))}
             </div>
@@ -231,6 +235,7 @@ const page = () => {
                   name={etel.name}
                   ing={etel.ing}
                   id={etel.id}
+                  src={etel.src}
                 />
               ))}
             </div>
@@ -247,11 +252,13 @@ type EtlapItems = {
   ing: string;
   ar: string;
   id: string;
+  src: string;
 };
 
-const BurgerItems: React.FC<EtlapItems> = ({ name, ing, ar, id }) => {
+const BurgerItems: React.FC<EtlapItems> = ({ name, ing, ar, id, src }) => {
   return (
-    <a href={`kinalat/${id}`} className='flex flex-col gap-2'>
+    <a href={`etlap/${id}`} className='flex flex-col gap-2'>
+      <Image src={src} alt={name} width={300} height={200} className='object-cover' />
       <div className='flex gap-5 justify-between'>
         <p className='text-2xl text-main-yellow'>{name}</p>
         <p className='text-xl text-white font-bold'>{ar},-</p>
@@ -263,9 +270,10 @@ const BurgerItems: React.FC<EtlapItems> = ({ name, ing, ar, id }) => {
   );
 };
 
-const SnackBoxItems: React.FC<EtlapItems> = ({ name, ing, ar, id }) => {
+const SnackBoxItems: React.FC<EtlapItems> = ({ name, ing, ar, id, src }) => {
   return (
-    <a href={`kinalat/${id}`} className='flex flex-col gap-2'>
+    <a href={`etlap/${id}`} className='flex flex-col gap-2'>
+      <Image src={src} alt={name} width={300} height={200} className='object-cover' />
       <div className='flex gap-5 justify-between'>
         <p className='text-2xl text-main-yellow'>{name}</p>
         <p className='text-xl text-white font-bold'>{ar},-</p>
@@ -277,9 +285,10 @@ const SnackBoxItems: React.FC<EtlapItems> = ({ name, ing, ar, id }) => {
   );
 };
 
-const Koretek: React.FC<EtlapItems> = ({ name, ing, ar, id }) => {
+const Koretek: React.FC<EtlapItems> = ({ name, ing, ar, id, src }) => {
   return (
-    <a href={`kinalat/${id}`} className='flex flex-col gap-2'>
+    <a href={`etlap/${id}`} className='flex flex-col gap-2'>
+      <Image src={src} alt={name} width={300} height={200} className='object-cover' />
       <div className='flex gap-5 justify-between'>
         <p className='text-2xl text-main-yellow'>{name}</p>
         <p className='text-xl text-white font-bold'>{ar},-</p>
@@ -291,9 +300,10 @@ const Koretek: React.FC<EtlapItems> = ({ name, ing, ar, id }) => {
   );
 };
 
-const Salatak: React.FC<EtlapItems> = ({ name, ing, ar, id }) => {
+const Salatak: React.FC<EtlapItems> = ({ name, ing, ar, id, src }) => {
   return (
-    <a href={`kinalat/${id}`} className='flex flex-col gap-2'>
+    <a href={`etlap/${id}`} className='flex flex-col gap-2'>
+      <Image src={src} alt={name} width={300} height={200} className='object-cover' />
       <div className='flex gap-5 justify-between'>
         <p className='text-2xl text-main-yellow'>{name}</p>
         <p className='text-xl text-white font-bold'>{ar},-</p>
@@ -305,9 +315,10 @@ const Salatak: React.FC<EtlapItems> = ({ name, ing, ar, id }) => {
   );
 };
 
-const Desszertek: React.FC<EtlapItems> = ({ name, ing, ar, id }) => {
+const Desszertek: React.FC<EtlapItems> = ({ name, ing, ar, id, src }) => {
   return (
-    <a href={`kinalat/${id}`} className='flex flex-col gap-2'>
+    <a href={`etlap/${id}`} className='flex flex-col gap-2'>
+      <Image src={src} alt={name} width={300} height={200} className='object-cover' />
       <div className='flex gap-5 justify-between'>
         <p className='text-2xl text-main-yellow'>{name}</p>
         <p className='text-xl text-white font-bold'>{ar},-</p>

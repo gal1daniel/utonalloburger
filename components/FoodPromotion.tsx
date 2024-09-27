@@ -6,8 +6,7 @@ const FoodPromotion = () => {
     <section className='max-container padding-container'>
         <div className='my-20'>
             <div className="w-[100px] h-[2px] bg-yellow-300 mb-2" />
-            <h2 className="mb-2 font-semibold text-3xl text-white">Amit találsz nálunk!</h2>
-            <p className="mb-5 lg:w-1/2 w-full text-xs text-gray-200">Fedezd fel a kreatív burgereinket és "Snack Box" választékainkat, amelyek friss, helyi alapanyagokból készülnek! Nálunk minden falat izgalmas és egyedi élményt nyújt.</p>
+            <p className="mb-5 lg:w-1/2 w-full text-xs text-gray-200">Fedezd fel a kreatív burgereinket és "Snack Box" választékainkat, amelyek friss alapanyagokból készülnek! Nálunk minden falat izgalmas és egyedi élményt nyújt.</p>
         </div>
         <Link href="/kinalat" className='flex flex-col md:flex-row uppercase text-3xl md:text-4xl gap-3'>
             <div className='w-full md:w-1/2 aspect-square'>
@@ -17,10 +16,10 @@ const FoodPromotion = () => {
             </div>
 
             <div className='w-full md:w-1/2 flex flex-col md:aspect-auto aspect-square'>
-                <div className='hover:scale-95 transform transition duration-500 bg-[url("/optimized_etelek/Gyros3.jpg")] bg-cover bg-center p-4 text-white' style={{ height: '50%' }}>
+                <div className='hover:scale-95 transform transition duration-500 bg-[url("/optimized_etelek/Gyros.webp")] bg-cover bg-center p-4 text-white' style={{ height: '50%' }}>
                     <p className='drop-shadow-md'>Snack Box</p>
                 </div>
-                <div className='hover:scale-95 transform transition duration-500 bg-[url("/optimized_etelek/UtonalloSalata.jpg")] bg-cover bg-center p-4 text-white mt-4' style={{ height: '50%' }}>
+                <div className='hover:scale-95 transform transition duration-500 bg-[url("/optimized_etelek/UtonalloSalata.webp")] bg-cover bg-center p-4 text-white mt-4' style={{ height: '50%' }}>
                     <p className='drop-shadow-md'>Saláták</p>
                 </div>
             </div>
