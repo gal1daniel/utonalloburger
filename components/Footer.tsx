@@ -27,7 +27,7 @@ const Footer = () => {
                 </div>
                 <div className="flex">
                     <p className="mr-1 text-gray-300">Email:</p>
-                    <a href="mailto:info@utonalloburger.hu" aria-label="Our email" title="Our email" className="transition-colors duration-300  text-main-yellow">utonallo@utonalloburger.hu</a>
+                    <a href="mailto:utonalloburger@utonalloburger.hu" aria-label="Our email" title="Our email" className="transition-colors duration-300  text-main-yellow">utonalloburger@utonalloburger.hu</a>
                 </div>
                 <div className="flex">
                     <p className="mr-1 text-gray-300">Cím:</p>

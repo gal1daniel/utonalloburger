@@ -156,7 +156,7 @@ export const KINALAT = [
         id: 'roffencs',
         name: 'Röffencs Burger',
         src: '/optimized_etelek/Roffencs.webp',
-        ing: 'Fokhagymás majonéz, sertéshús pogácsa, bacon, madársaláta, paradicsom, lilahagyma',
+        ing: 'Fokhagymás majonéz, sertéshús pogácsa, bacon, madársaláta, paradicsom, lilahagyma, uborka',
         description: "Húsimádók álma: szaftos sertéshús pogácsa ropogós baconnel ölelkezve, friss zöldségekkel és pikáns fokhagymás majonézzel megkoronázva.",
         ar: '2990',
         category: 'burger',
@@ -590,12 +590,12 @@ export const BURGEREK = [
     {
         id: 'utonallo',
         name: 'Útonálló Burger',
-        src: '/optimized_etelek/Lator.webp',
-        ing: 'Grillezett Camembert, áfonyalekvár, saláta, paradicsom, uborka, lilahagyma, hamburgerszósz',
+        src: '/optimized_etelek/Utonallo.webp',
+        ing: 'Amerikai coleslow saláta, marhahúspogácsa, Cheddar sajt, pulled pork, rántott hagymakarika, BBQ szósz',
         description: "Az Útonálló Burger a marhahúspogácsa és a BBQ szósszal készített különleges élmény szerelmeseinek készült. A bacon és pirított hagyma találkozása a paradicsommal és uborkával egy ellenállhatatlan ízélményt kínál.",
         ar: '3990',
         category: 'burger',
-    }
+    },
 ]
 
 export const SNACKBOX = [
@@ -632,7 +632,7 @@ export const SNACKBOX = [
         src: '/optimized_etelek/CordonBleu.webp',
         ing: 'Sajttal sonkával töltött csirkemell, rizs, tartármártás',
         description: "Klasszikus ínyencség újragondolva: ropogós bundában rejlő, sajttal és sonkával gazdagon töltött csirkemell, mellé könnyed rizs és selymes tartármártás - a tökéletes harmónia minden falatra.",
-        ar: '3790',
+        ar: '3990',
         category: 'snackbox',
     },
     {
@@ -668,7 +668,7 @@ export const SNACKBOX = [
         src: '/optimized_etelek/TrioBox.webp',
         ing: 'Rántott csirkeszárny, sörtésztás hagymakarika, füstölt mozzarella fánk, 2 választható szósz (BBQ, Édessavanyú, Majonéz, Ketchup)',
         description: "Kóstoljon bele a ropogós élvezetekbe: aranybarnára sült, zamatos csirkeszárnyak; sörben fürdött, csábítóan ropogós hagymakarikák; és krémes, füstös mozzarellával töltött, csodásan pufi fánkok - mind egy dobozban, két szabadon választható, ínycsiklandó mártogatóssal megkoronázva.",
-        ar: '3890',
+        ar: '3990',
         category: 'snackbox',
     },
     {
@@ -693,7 +693,7 @@ export const SNACKBOX = [
         id: 'gyros_pita',
         name: 'Gyros Pita',
         src: '/optimized_etelek/GyrosPita.webp',
-        ing: 'Gyros hús, saláta, paradicsom, uborka, lilahagyma, lilakáposzta, joghurt vagy csípős öntet',
+        ing: 'Gyros hús, saláta, paradicsom, uborka, lilahagyma, joghurt vagy csípős öntet',
         description: "Görög klasszikus kézbe fogva: puha pitában ölelkező, fűszeres gyros hús friss zöldségekkel és lilakáposztával, megkoronázva választható öntettel - egy harapás, és máris az Égei-tenger partján érezheti magát.",
         ar: '1890',
         category: 'snackbox',
@@ -711,7 +711,7 @@ export const SNACKBOX = [
         id: 'vega_pita',
         name: 'Vega Pita',
         src: '/optimized_etelek/FalafelPita.webp',
-        ing: 'Falafel, saláta, paradicsom, uborka, lilahagyma, lilakáposzta, joghurt vagy csípős öntet',
+        ing: 'Falafel, saláta, paradicsom, uborka, lilahagyma, joghurt vagy csípős öntet',
         description: "Növényi finomság pitába zárva: ropogós falafelgolyók friss zöldségek és zamatos lilakáposzta társaságában, választható öntettel megbolondítva - ízkavalkád, ami még a húsimádókat is megtéríti.",
         ar: '1890',
         category: 'snackbox',
