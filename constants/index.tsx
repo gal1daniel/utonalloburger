@@ -389,7 +389,7 @@ export const SALATAK = [
     {
         id: 'coleslow',
         name: 'Coleslow káposztasaláta',
-        src: '/optimized_etelek/Coleslaw.webp',
+        src: '/optimized_etelek/Coleslow.webp',
         ing: '',
         description: "Frissítő crunch minden falatban: finomra szeletelt ropogós káposzta és édes sárgarépa ölelkezik selymes, enyhén pikáns majonézes öntettel - a tökéletes kísérője bármely főételnek, vagy önmagában is üdítő fogás.",
         ar: '990',
@@ -398,7 +398,7 @@ export const SALATAK = [
     {
         id: 'kaposztasalata',
         name: 'Káposztasaláta',
-        src: '/optimized_etelek/Kaposztasalata2.webp',
+        src: '/optimized_etelek/Kaposztasalata.webp',
         ing: '',
         description: "A káposztasaláta egy friss, ropogós saláta, amely minden ételhez kiválóan passzol.",
         ar: '790',
