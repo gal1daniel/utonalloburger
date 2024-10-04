@@ -11,7 +11,7 @@ const MenuPromotion = () => {
                     BURGONYA<br/>
                     ÜDÍTŐ<span className='text-main-yellow'> -10%</span>
                 </p>
-                <Link href="/kinalat" className='bg-yellow-300 py-2 px-8 font-medium text-main-black rounded-2xl'>Kínálatunk</Link>
+                <Link href="/etlap" className='bg-yellow-300 py-2 px-8 font-medium text-main-black rounded-2xl'>Kínálatunk</Link>
             </div>
         </div>
     </section>

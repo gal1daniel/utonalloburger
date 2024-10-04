@@ -8,7 +8,7 @@ const FoodPromotion = () => {
             <div className="w-[100px] h-[2px] bg-yellow-300 mb-2" />
             <p className="mb-5 lg:w-1/2 w-full text-xs text-gray-200">Fedezd fel a kreatív burgereinket és "Snack Box" választékainkat, amelyek friss alapanyagokból készülnek! Nálunk minden falat izgalmas és egyedi élményt nyújt.</p>
         </div>
-        <Link href="/kinalat" className='flex flex-col md:flex-row uppercase text-3xl md:text-4xl gap-3'>
+        <Link href="/etlap" className='flex flex-col md:flex-row uppercase text-3xl md:text-4xl gap-3'>
             <div className='w-full md:w-1/2 aspect-square'>
                 <div className='hover:scale-95 transform transition duration-500 bg-[url("/Promo_Burger.webp")] bg-cover bg-center p-4 text-white aspect-square'>
                     <p className='drop-shadow-md'>Burgerek</p>

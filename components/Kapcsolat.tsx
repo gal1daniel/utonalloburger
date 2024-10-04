@@ -13,7 +13,7 @@ const Kapcsolat = () => {
                     <Image src='/Terkep.webp' width={3000} height={3000} alt='Terkep' className='md:w-1/2' />
                 <div className='flex justify-between flex-col md:mt-0 mt-5'>
                     <div className='pb-5'>
-                        <p className='text-2xl text-main-yellow font-bold'>Cím</p>
+                        <p className='text-2xl text-main-yellow font-bold'>Telefonszám</p>
                         <p className='text-md text-gray-300'>+36 30 123 2390</p>
                     </div>
                     <div className='pb-5'>
